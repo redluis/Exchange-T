@@ -17,12 +17,11 @@ There are three parameters of an asset placed on a stock exchange:
 There are three types of assets, each has its own revenue formula:  
 
     1. Product
-        Revenue = Cost * 1.2.
-
+        _Revenue = Cost * 1.2._
     2. Stock
-        Revenue = Cost of ALL PRODUCTS * Quantity / 2.
+        _Revenue = Cost of ALL PRODUCTS * Quantity / 2._
     3. Futures
-       Revenue = Cost * 1.5.
+        _Revenue = Cost * 1.5._
 
 There are three USD exchange rates. For each of them the program must indicate the profit of all assets.  
 Profit is the difference between a revenue and a cost.  
